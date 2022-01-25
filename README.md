@@ -1,4 +1,4 @@
-# projeto-04-calculadora
+# Calculadora VUE
 
 ## Project setup
 ```
